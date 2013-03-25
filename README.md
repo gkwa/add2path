@@ -5,4 +5,16 @@ Simple tool that adds **Add to system Path** item to directory context menu.
 
 ![Screenshot](Screenshot.png)
 
-To install or uninstall tool - run appropriate batch file with **Administrator** privileges. For changes to take effect you must relogin or reboot.
+Install
+-------
+
+[Download](https://github.com/mac2000/add2path/archive/master.zip) and extract files.
+
+Run `Install.cmd` as Administrator.
+
+Relogin or reboot.
+
+Uninstall
+---------
+
+Just run `Uninstall.cmd` as Administrator.
